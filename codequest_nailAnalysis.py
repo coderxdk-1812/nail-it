@@ -87,8 +87,6 @@ def test(filepath):
         output.config(text="Your nails are healthy!! Stay healthy!!")  
     else:
         print(class_name[0])
-        
-    return image
 
 #Initialising tkinter frame
 frm = Frame(tk, width = 300, height = 50,bd=1, bg = "lemon chiffon") 
